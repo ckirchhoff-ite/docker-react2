@@ -13,7 +13,7 @@ deploy:
   region: "us-east-2"
   app: "docker-react"
   environment: "DockerReact-env"
-  bucket_name: "docker-react"
+  bucket_name: "docker-react2"
   on:
     branch: master
   access_key_id: $AWS_ACCESS_KEY
